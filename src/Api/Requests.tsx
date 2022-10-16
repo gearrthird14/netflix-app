@@ -12,3 +12,15 @@ const requests = {
 }
 
 export default requests;
+
+// const firebaseConfig = {
+//   apiKey: "AIzaSyDHAEi3lfhs-dKFAlaH0aFapdLA93iVVqA",
+//   authDomain: "netflix-clone-db568.firebaseapp.com",
+//   projectId: "netflix-clone-db568",
+//   storageBucket: "netflix-clone-db568.appspot.com",
+//   messagingSenderId: "939176997085",
+//   appId: "1:939176997085:web:b8e15f721962c76bd72b34"
+// };
+
+// Firebase Web API Key AIzaSyDHAEi3lfhs-dKFAlaH0aFapdLA93iVVqA
+// Project ID netflix-clone-db568

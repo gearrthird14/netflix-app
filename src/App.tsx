@@ -6,7 +6,7 @@ import HomePage from './HomePage/HomePage';
 
 function App() {
   return (
-    <div className={styles.App}>
+    <div className={styles.app}>
       <HomePage />
     </div>
   );
